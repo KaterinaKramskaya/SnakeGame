@@ -1,0 +1,7 @@
+D:\C Sharp. Homeworks\SnakeGame\Snake_Game\Snake_Game\bin\Debug\Snake_Game.exe.config
+D:\C Sharp. Homeworks\SnakeGame\Snake_Game\Snake_Game\bin\Debug\Snake_Game.exe
+D:\C Sharp. Homeworks\SnakeGame\Snake_Game\Snake_Game\bin\Debug\Snake_Game.pdb
+D:\C Sharp. Homeworks\SnakeGame\Snake_Game\Snake_Game\obj\Debug\Snake_Game.csprojAssemblyReference.cache
+D:\C Sharp. Homeworks\SnakeGame\Snake_Game\Snake_Game\obj\Debug\Snake_Game.csproj.CoreCompileInputs.cache
+D:\C Sharp. Homeworks\SnakeGame\Snake_Game\Snake_Game\obj\Debug\Snake_Game.exe
+D:\C Sharp. Homeworks\SnakeGame\Snake_Game\Snake_Game\obj\Debug\Snake_Game.pdb
